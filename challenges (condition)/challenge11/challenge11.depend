@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694777254 source:c:\users\ycode\desktop\challenge\challenges2\challenge11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
