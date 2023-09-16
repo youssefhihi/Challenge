@@ -3,6 +3,16 @@
 
 int main()
 {
-    printf("Hello world!\n");
-    return 0;
+    int num, a, b;
+    printf("entrez ton nombre : ");
+    scanf("%d",&num);
+
+    a = 0;
+    while(num>0){
+        b = num % 10;
+        a = 10 * a + b;
+        num = num / 10;
+
+    }
+    printf("%d",a);
 }
