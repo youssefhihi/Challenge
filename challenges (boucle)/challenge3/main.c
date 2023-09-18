@@ -13,11 +13,14 @@ int main()
         return 0;
     }
 
-    for (i = 2; i <= num / 2; i++) {
+    for (i = 2; i <= num / 2;i++ ) {
         if (num % i == 0) {
-            j += 1;
+            j+=1;
+
         }
+
     }
+
 
     if (j > 0) {
             printf("%d ce n'est pas un nombre premier", num);
