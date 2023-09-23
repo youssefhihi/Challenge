@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1695481484 source:c:\users\ycode\desktop\fin project sas\to do list app2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1695423416 source:d:\to do list app2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
